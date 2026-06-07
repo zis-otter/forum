@@ -1,7 +1,10 @@
 @font-face {
       font-family: 'cappuccicons';
       src: url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.eot');
-      src: url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons%20(1).eot') format('embedded-opentype'), url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.ttf') format('truetype'), url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.woff') format('woff'), url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.svg') format('svg');
+      src: url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons%20(1).eot') format('embedded-opentype'),
+           url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.ttf') format('truetype'),
+           url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.woff') format('woff'),
+           url('https://raw.githubusercontent.com/zis-otter/forum/main/cappuccicons.svg') format('svg');
       font-weight: normal;
       font-style: normal;
       font-display: block;
